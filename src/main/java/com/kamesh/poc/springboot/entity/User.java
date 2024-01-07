@@ -1,4 +1,4 @@
-package net.javaguides.springboot.entity;
+package com.kamesh.poc.springboot.entity;
 
 
 import lombok.AllArgsConstructor;

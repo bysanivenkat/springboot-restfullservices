@@ -1,8 +1,8 @@
-package net.javaguides.springboot.controller;
+package com.kamesh.poc.springboot.controller;
 
 import lombok.AllArgsConstructor;
-import net.javaguides.springboot.entity.User;
-import net.javaguides.springboot.service.UserService;
+import com.kamesh.poc.springboot.entity.User;
+import com.kamesh.poc.springboot.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

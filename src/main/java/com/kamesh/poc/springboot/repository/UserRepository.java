@@ -1,6 +1,6 @@
-package net.javaguides.springboot.repository;
+package com.kamesh.poc.springboot.repository;
 
-import net.javaguides.springboot.entity.User;
+import com.kamesh.poc.springboot.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

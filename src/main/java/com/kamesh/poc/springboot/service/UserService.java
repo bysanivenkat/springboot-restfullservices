@@ -1,6 +1,6 @@
-package net.javaguides.springboot.service;
+package com.kamesh.poc.springboot.service;
 
-import net.javaguides.springboot.entity.User;
+import com.kamesh.poc.springboot.entity.User;
 
 import java.util.List;
 
